@@ -30,7 +30,6 @@ Vous pouvez même tout personnaliser à partir du `config.json`.
 
 ```
 git clone https://github.com/AzukioPrs/ticket-bot-master.git
-
 ```
 Ensuite faites:
 ```
