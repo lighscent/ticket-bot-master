@@ -42,21 +42,15 @@ npm install
 Paramétrez toutes vos informations dans le *config.json* 
 ```
 {
-  "prefix": "BOT_PREFIX",
-  "main_token": "BOT_TOKEN",
-  "developers": "DEV_ID",
-  "bot_name":"YOUR_BOT_NAME",
-  "emoji":"REACTION_EMOJI",
-  "color":"PREFFERED_EMBED_COLOR",
-  "ticket_limit":"TICKET_LIMIT",
-  "support_role_id":"SUPPORT_ROLE_ID",
-  "category_id":"CATEGORY_ID",
-  "log_channel_id":"TICKET_LOG_CHANNEL_ID"
+    "color": "#COLOR",
+    "prefix": "PREFIX",
+    "devid": "DEV_ID",
+    "token": "BOT_TOKEN"
 }
 ```
  
  ### Important
- Assurez-vous d'avoir activé `Privileged Intents` sur le Discord [Developer Portal](https://discordapp.com/developers/applications/). 
+ Assurez-vous d'avoir activé `PRESENCE INTENT`, `SERVER MEMBERS INTENT` et `MESSAGE CONTENT INTENT` sur le Discord [Developer Portal](https://discordapp.com/developers/applications/). 
 
 
 Une fois cela fait, vous pouvez lancer le bot avec `node index.js`. 
