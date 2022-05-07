@@ -5,9 +5,9 @@ Ticket Bot Master
 
 
 <p align="center">
-  <a href="#about">About</a>
+  <a href="#about">A Propos</a>
   •
-  <a href="#features">Features</a>
+  <a href="#features">Caractéristiques</a>
   •
   <a href="#installation">Installation</a>
   •
